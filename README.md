@@ -50,4 +50,4 @@ The backend is managed in its own repository and provides:
 ### Frontend
 1. Clone the frontend repository:
    ```bash
-   git clone https://github.com/YourUsername/BlogHaven-Frontend.git
+   git clone git@github.com:RobinGoerlach/BlogHaven.git
