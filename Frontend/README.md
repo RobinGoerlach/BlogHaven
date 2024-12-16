@@ -24,7 +24,12 @@ TailwindCSS Intelisense
 
 ## Init App
 
+npm create vite@latest .
 npm i
+// https://tailwindcss.com/docs/guides/vite
 npm i -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm i react-router-dom
+// https://flowbite-react.com/docs/guides/vite/
+npm i flowbite-react
+npm i react-icons
